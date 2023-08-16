@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Layones</h1>
-<h3 align="center">A seeker and developer from the Philippines</h3>
+<h3 align="center">A developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtlayones&label=Profile%20views&color=0e75b6&style=flat" alt="mtlayones" /> </p>
 
@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mtlayones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtlayones" height="30" width="40" /></a>
-<a href="https://fb.com/mtlayones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtlayones" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/matlayones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matlayones" height="30" width="40" /></a>
 </p>
 
