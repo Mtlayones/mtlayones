@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mtlayones@gmail.com**
 
-- 📄 Know about my experiences through this [resume](https://drive.google.com/file/d/1tuqgQDIpAoMNHVrUssm65R53mYA91dTw/view?usp=sharing).
+- 📄 Know about my experiences through this [resume](https://drive.google.com/file/d/1Gg24ntjmuqQ6nQu-g2nUwhCyjtjh2S0C/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
